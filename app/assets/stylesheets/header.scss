@@ -1,0 +1,21 @@
+@font-face {
+   font-family: 'Ginora Sans Regular';
+   src: url('Ginora Sans Regular.otf');
+}
+
+@font-face {
+   font-family: 'Ginora Sans Semi Bold';
+   src: url('Ginora Sans Semi Bold.otf');
+}
+
+@font-face {
+   font-family: 'Ginora Sans Light';
+   src: url('Ginora Sans Light.otf');
+}
+
+p {
+  text-align: center;
+  font-family: 'Ginora Sans Regular';
+  font-size: 20pt;
+  padding: 70pt 0pt;
+}
